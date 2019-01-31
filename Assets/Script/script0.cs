@@ -14,5 +14,6 @@ public class script0 : MonoBehaviour
     void Update()
     {
         print("?ah");
+        print("ststst");
     }
 }
