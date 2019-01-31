@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,5 +14,6 @@ public class script0 : MonoBehaviour
     void Update()
     {
         print("ha");
+        print("?ah");
     }
 }
